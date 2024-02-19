@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ![logo](https://github.com/BhautikVaghani30/BhautikVaghani30/blob/main/Bhautik%20Vaghani.png)
 <h1 align="center">Hi 👋, I'm Bhautik Vaghani</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
