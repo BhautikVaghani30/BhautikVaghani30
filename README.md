@@ -5,11 +5,11 @@
 
 
 
-- 🌱 I’m currently learning **java Programming, Spring, Spring Boot**
+- 🌱 I’m Software Engineer At Uffizio
 
 - 👨‍💻 All of my projects are available at [https://github.com/bhautikvaghani30](https://github.com/bhautikvaghani30)
 
-- 💬 Ask me about **Spring Boot, DSA, DBMS, Java Programming**
+- 💬 Ask me about **Spring Boot, DSA, DBMS, Java Programming, Servlet & JSP, JavaScript**
 
 - 📫 How to reach me **vaghani.bhautik78@gmail.com**
 
