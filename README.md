@@ -5,13 +5,13 @@
 
 
 
-- 🌱 I’m Software Engineer At Uffizio
+- 🌱 I’m Software Engineer At LogWinTech
 
 - 👨‍💻 All of my projects are available at [https://github.com/bhautikvaghani30](https://github.com/bhautikvaghani30)
 
-- 💬 Ask me about **Spring Boot, DSA, DBMS, Java Programming, Servlet & JSP, JavaScript**
+- 💬 Ask me about **Spring Boot, Cloud(GCP, AWS), System design, Docker, DSA, DBMS, Java Programming, Servlet & JSP, JavaScript**
 
-- 📫 How to reach me **vaghani.bhautik78@gmail.com**
+- 📫 How to reach me **bhautikvaghani07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
