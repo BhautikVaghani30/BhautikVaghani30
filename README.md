@@ -1,31 +1,70 @@
+![Banner](https://github.com/BhautikVaghani30/BhautikVaghani30/blob/main/Backend%20Engineer.png)
 
-![logo](https://github.com/BhautikVaghani30/BhautikVaghani30/blob/main/Bhautik%20Vaghani.png)
 <h1 align="center">Hi 👋, I'm Bhautik Vaghani</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">Backend Engineer II | Reactive Microservices Specialist</h3>
 
-
-
-- 🌱 I’m Software Engineer At LogWinTech
-
-- 👨‍💻 All of my projects are available at [https://github.com/bhautikvaghani30](https://github.com/bhautikvaghani30)
-
-- 💬 Ask me about **Spring Boot, Cloud(GCP, AWS), System design, Docker, DSA, DBMS, Java Programming, Servlet & JSP, JavaScript**
-
-- 📫 How to reach me **bhautikvaghani07@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/bhautikvaghani30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhautikvaghani30/" height="30" width="40" /></a>
-<a href="https://leetcode.com/BhautikVaghani30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/bhautikvaghani30/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/codewithbi7z5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/codewithbi7z5" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reactive-Flux-00AFEE?style=for-the-badge&logo=react&logoColor=white" />
 </p>
-<!-- <img align="right" alt="coding" width="400" src="https://github.com/BhautikVaghani30/BhautikVaghani30/blob/main/img.gif"/> -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhautikvaghani30&show_icons=true&locale=en&layout=compact" alt="bhautikvaghani30" /></p>
+### 🚀 Professional Snapshot
+I am a Backend Developer with **2+ years of experience** building high-performance, scalable systems. Currently, I am a **Software Engineer at LogWinTech**, contributing to the **E-commerce Cart & Checkout** team. I specialize in transforming complex business requirements into clean, non-blocking, and asynchronous microservices.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhautikvaghani30&show_icons=true&locale=en" alt="bhautikvaghani30" /></p>
+* **Domain Expertise:** E-commerce (Cart & Checkout Flow), High-Scale Distributed Systems.
+* **Architecture & Design:** Layered Architecture, Event-Driven Design, and specialized Design Patterns (Adapter, Handler, i18n).
+* **Reactive Specialist:** Expert in Project Reactor (WebFlux), writing functional and declarative non-blocking code to optimize throughput.
+* **Observability:** Proactive debugging and performance monitoring using **Dynatrace, Datadog**, and user-experience analysis via **Quantum Metric (QM)**.
+* **Agile Excellence:** Deeply familiar with Scrum methodologies, sprint planning, and professional MNC workflows.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhautikvaghani30&" alt="bhautikvaghani30" /></p>
+
+### 🏗️ Foundational Experience (Startup Journey)
+Before my current role, I honed my skills in a fast-paced environment at **trading platform**.
+- **System Integration:** Designed and implemented critical 3rd-party integrations, including **PayPal** for seamless financial transactions and **OneSignal** for real-time user notifications.
+- **Full-Cycle Development:** Managed end-to-end feature ownership, from initial design to production deployment, ensuring high reliability for trading operations.
+---
+
+### 🛠️ Core Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java (11/17/21), JavaScript, SQL |
+| **Frameworks** | Spring Boot, Spring WebFlux (Reactive), Hibernate, Servlet & JSP |
+| **Cloud & DevOps** | GCP, AWS, Kubernetes (K8s), Docker, Git |
+| **Databases** | MongoDB, MySQL, MS SQL Server, Redis |
+| **Monitoring** | Dynatrace, Datadog, Quantum Metric |
+| **Design/AI** | System Design (LLD/HLD), Gemini, Cursor, GitHub Copilot |
+
+---
+
+### 📈 What I Bring to the Team
+- **Complexity Solver:** I have a track record of addressing deep-seated defects and complex bugs in production environments.
+- **Clean Code Advocate:** Deeply invested in writing scalable, maintainable code using best practices and industry-standard design patterns.
+- **System Design Contributor:** Actively propose architectural solutions during feature discussions to ensure future scalability.
+- **AI-Enhanced Development:** Leveraging AI agents like Gemini and Cursor to accelerate development cycles without compromising quality.
+
+---
+
+### 📫 Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/bhautikvaghani30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="mailto:bhautikvaghani07@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="30" width="35" /></a>
+<a href="https://leetcode.com/BhautikVaghani30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhautikvaghani30&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=bhautikvaghani30&show_icons=true&locale=en&theme=vision-friendly-dark" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhautikvaghani30&theme=vision-friendly-dark" alt="bhautikvaghani30" />
+</p>
